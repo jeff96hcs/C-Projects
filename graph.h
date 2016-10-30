@@ -54,14 +54,6 @@ public:
 	 * Hint: what is the new node connected to?
 	 */
 	/*
-
-	Node<T>* copy(const Node& other) {
-		return new Node<T>(value);
-	}
-
-	*/
-
-	/*
 	 * Why not a vector for the list of adjacent
 	 * nodes?
 	 */
